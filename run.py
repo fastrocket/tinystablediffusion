@@ -1,4 +1,4 @@
-#!pip install git+https://github.com/huggingface/diffusers transformers accelerate -q
+  #!pip install git+https://github.com/huggingface/diffusers transformers accelerate -q
 from diffusers import StableDiffusionXLPipeline
 import torch
 import shortuuid
