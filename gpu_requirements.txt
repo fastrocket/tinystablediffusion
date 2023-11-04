@@ -13,3 +13,4 @@ polygraphy==0.43.1
 scipy
 transformers==4.25.1
 tensorrt==8.5.1.7
+realesrgan
