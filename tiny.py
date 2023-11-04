@@ -38,6 +38,9 @@ for i in range(1):
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
+    if not os.path.exists(face_dir):
+        os.makedirs(face_dir)
+
     # Generate a unique UUID for the filename
     newuuid = shortuuid.uuid()
 

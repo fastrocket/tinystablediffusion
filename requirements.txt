@@ -1,9 +1,11 @@
 diffusers
 shortuuid
-torch
 transformers
-torchvision
-torchaudio 
---index-url https://download.pytorch.org/whl/cu118
 realesrgan
 gfpgan
+accelerate
+# PyTorch packages with a custom index URL
+-f https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
