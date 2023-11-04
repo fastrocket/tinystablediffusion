@@ -1,4 +1,0 @@
-transformers
-accelerate
-safetensors
-git+https://github.com/huggingface/diffusers

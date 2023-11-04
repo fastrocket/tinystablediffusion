@@ -1,9 +1,10 @@
-diffusers
+git+https://github.com/huggingface/diffusers
 shortuuid
 transformers
 realesrgan
 gfpgan
 accelerate
+
 # PyTorch packages with a custom index URL
 -f https://download.pytorch.org/whl/cu118
 torch
